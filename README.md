@@ -6,7 +6,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=raunak234&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=1e222a" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunak234&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=1e222a" height="400" />
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h1>Interests</h1>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"  width="50" height="56" /> 
