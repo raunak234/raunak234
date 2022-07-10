@@ -1,11 +1,6 @@
-- 👋 Hi, I’m Raunak Karn.
-- 👀 I’m interested in learning coding and building cool projects.
-- 🌱 I’m currently learning C.
-- 💞️ I’m looking to collaborate on dumb projects and learn from people. 
-- 📫 How to reach me ---> think about me and I shall appear. 
+One day I shall rule the world.
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=raunak234&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=1e222a" />
-<!---<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunak234&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=1e222a" height="400" />
---->
+
 <br><br><br><br><br><br><br><br>
 
 <h1>Interests</h1>
