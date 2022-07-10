@@ -5,8 +5,7 @@ One day I shall rule the world.
 <br><br><br><br><br><br><br><br>
 
 <h1>Interests</h1>
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"  width="50" height="56" />    
-<img align="left" src="https://cdn.freebiesupply.com/logos/large/2x/html-5-logo-png-transparent.png" width="36" height="50"> 
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"  width="50" height="56" />     
 <img align="left" src="https://pngimg.com/uploads/linux/linux_PNG48.png" width="50" height="50"> 
                                                                                                  
 <!---
